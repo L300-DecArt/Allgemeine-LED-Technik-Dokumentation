@@ -30,11 +30,12 @@ Controller:
 
 Netzteil:
 
-  200W Netzteil:
+    200W Netzteil:
     https://a.aliexpress.com/_Ex9F1f7
 
   Sicherung:
     Jeder Ausgang sollte mit einem 2 Poligen DC Leitungsschutzschalter 6A ausgerüstet werden, um gegen Kurzschluss zu sichern.
+        
     https://de.aliexpress.com/item/1005007096326577.html?spm=a2g0o.cart.0.0.7d7a4ae4YPx434&mp=1&gatewayAdapt=glo2deu
     
 Kabel:
@@ -61,6 +62,7 @@ Stecker:
 
 Verschraubungen:
   Passende Verschraubungen für unseren Kabelausßendurchmesser sind:
+    
     PG11:
       Kabelaußendurchmesser: 5-10mm
       Gewinde: M18x1,5
