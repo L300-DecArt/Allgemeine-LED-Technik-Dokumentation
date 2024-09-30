@@ -54,6 +54,8 @@ Stecker:
     Kabelaußendurchmesser: 6 - 10mm
     Max Stromsträke: 6A
 
+    https://www.liveelectronicsgroup.com/wp-content/uploads/2020/12/Weipu-SP17-Catalogue.pdf
+
     Set mit weiblicher Buchse und männlichen Stecker:
       https://de.aliexpress.com/item/1005005484121525.html?pdp_npi=4%40pre%21EUR%21%E2%82%AC%203%2C05%21%21%E2%82%AC%203%2C05%21%213.33%213.33%21%402103868a17276541307817253ed080%2112000033266215813%21sh%21DE%212975965101%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007523495057.1005005484121525&gatewayAdapt=glo2deu
 
