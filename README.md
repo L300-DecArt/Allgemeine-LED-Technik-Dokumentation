@@ -1,7 +1,7 @@
 # Allgemeine-LED-Technik-Dokumentation
 Allgemeine LED-Technik Dokumentation
 
-Aufgelistet sind die Standarts die wir für unsere 12V WS2815 LED Technik verwenden
+Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik verwenden
 
 LEDs:
   Protokoll: WS2815
