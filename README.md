@@ -59,5 +59,14 @@ Stecker:
       Set mit weiblichen Stecker und männlichen Stecker:
         https://de.aliexpress.com/item/1005005484687688.html?pdp_npi=4%40pre%21EUR%21%E2%82%AC%203%2C69%21%21%E2%82%AC%203%2C69%21%214.02%214.02%21%402103868a17276542036097503ed080%2112000033267690028%21sh%21DE%212975965101%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007523495057.1005005484687688&gatewayAdapt=glo2deu
 
+Verschraubungen:
+  Passende Verschraubungen für unseren Kabelausßendurchmesser sind:
+    PG11:
+      Kabelaußendurchmesser: 5-10mm
+      Gewinde: M18x1,5
+
+    PG13:
+      Kabelaußendruchmesser: 6-11mm
+      Gewinde: M20x1,5
 
 
