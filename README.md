@@ -55,8 +55,8 @@ Stecker:
     Kabelaußendurchmesser: 7 - 9mm
     Max Stromstärke: 10A
 
-    ![grafik](https://github.com/user-attachments/assets/50784220-6d72-4e4c-8bf9-1c724690a652)
-
+  [alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/LP-16%20Specs.jpg)
+  
   [Set mit männlichen und weiblichen Stecker: 5,29€](https://de.aliexpress.com/item/1005007372672331.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
 
   [Set mit männlichen Stecker und weiblicher eckiger Buchse: 4,99€](https://de.aliexpress.com/item/1005006403420945.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
