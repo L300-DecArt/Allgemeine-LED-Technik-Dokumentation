@@ -70,8 +70,12 @@ Stecker:
 
   
   Stecker weiblich:
-    ![alt text]()
-    ![alt text]()
+  
+  ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Stecker%20Weiblich%201.jpg)
+    
+  ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16-Stecker%20Weiblich%202.jpg)
+
+    
 
   Buchse männlich eckig:
 
