@@ -57,19 +57,26 @@ Stecker:
     
   Max Stromstärke: 10A
 
-  ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/LP-16%20Specs.jpg)
+  ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Specs.jpg)
 
   Stecker männlich: 
-
+     ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Stecker%20M%C3%A4nnlich%201.jpg)
+     ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16-Stecker%20M%C3%A4nnlich%202.jpg)
   Stecker weiblich:
+    ![alt text]()
+    ![alt text]()
 
   Buchse männlich eckig:
 
   Buchse weiblich eckig:
+    ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Buchse%20Weiblich%20eckig%201.png)
+    ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Buchse%20Weiblich%20eckig%202.png)
 
   Buchse männlich rund:
 
   Buchse weiblich rund:
+    ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Buchse%20Weiblich%20rund%201.png)
+    ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Buchse%20Weiblich%20rund%202.png)
 
 
   Aliexpress Links:
