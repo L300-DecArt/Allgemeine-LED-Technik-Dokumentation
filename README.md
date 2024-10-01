@@ -49,6 +49,23 @@ Stecker:
   !!!Ausgang ist immer weiblich und Eingang ist immer männlich!!!
 
   Der passende Stecker zu unseren Anforderungen ist der:
+
+
+  EW-LP16 - 4 Polig
+    Kabelaußendurchmesser: 7 - 9mm
+    Max Stromstärke: 10A
+
+    ![grafik](https://github.com/user-attachments/assets/50784220-6d72-4e4c-8bf9-1c724690a652)
+
+  [Set mit männlichen und weiblichen Stecker: 5,29€](https://de.aliexpress.com/item/1005007372672331.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
+
+  [Set mit männlichen Stecker und weiblicher eckiger Buchse: 4,99€](https://de.aliexpress.com/item/1005006403420945.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
+
+  [Set mit männlicher Stecker und weiblicher runder Buchse: 4,99€](https://de.aliexpress.com/item/1005006403606099.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
+
+  [Set mit männlicher eckiger Buchse und weiblichen Stecker: 4,69](https://de.aliexpress.com/item/1005007399437780.html?spm=a2g0o.productlist.main.49.25e63291h0eGiG&algo_pvid=ac3d22fd-3740-44ff-9a8a-38c692df7b94&algo_exp_id=ac3d22fd-3740-44ff-9a8a-38c692df7b94-24&pdp_npi=4%40dis%21EUR%215.85%214.39%21%21%216.37%214.78%21%40211b6d3517277699040405588e3aa1%2112000040585661988%21sea%21DE%212975965101%21X&curPageLogUid=zY6VKCu4rxaI&utparam-url=scene%3Asearch%7Cquery_from%3A)
+
+  [Set mit männlicher runder Buchse und weiblichen Stecker: 4,89€](https://de.aliexpress.com/item/1005006774475512.html?spm=a2g0o.productlist.main.29.25e63291h0eGiG&algo_pvid=ac3d22fd-3740-44ff-9a8a-38c692df7b94&algo_exp_id=ac3d22fd-3740-44ff-9a8a-38c692df7b94-14&pdp_npi=4%40dis%21EUR%215.45%214.09%21%21%215.93%214.45%21%40211b6d3517277699040405588e3aa1%2112000038260060488%21sea%21DE%212975965101%21X&curPageLogUid=h7mr97sI2m7O&utparam-url=scene%3Asearch%7Cquery_from%3A)
   
   SP17 - 4 Polig
     Kabelaußendurchmesser: 6 - 10mm
