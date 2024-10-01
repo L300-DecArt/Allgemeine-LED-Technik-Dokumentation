@@ -51,9 +51,11 @@ Stecker:
   Der passende Stecker zu unseren Anforderungen ist der:
 
 
-  EW-LP16 - 4 Polig
-    Kabelaußendurchmesser: 7 - 9mm
-    Max Stromstärke: 10A
+  EW-LP16 - 4 Polig:
+  
+  Kabelaußendurchmesser: 7 - 9mm
+    
+  Max Stromstärke: 10A
 
   ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/LP-16%20Specs.jpg)
 
