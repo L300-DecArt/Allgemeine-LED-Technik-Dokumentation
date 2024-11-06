@@ -108,7 +108,7 @@ Stecker:
 
   [Set mit männlicher eckiger Buchse und weiblichen Stecker: 4,69](https://de.aliexpress.com/item/1005007399437780.html?spm=a2g0o.productlist.main.49.25e63291h0eGiG&algo_pvid=ac3d22fd-3740-44ff-9a8a-38c692df7b94&algo_exp_id=ac3d22fd-3740-44ff-9a8a-38c692df7b94-24&pdp_npi=4%40dis%21EUR%215.85%214.39%21%21%216.37%214.78%21%40211b6d3517277699040405588e3aa1%2112000040585661988%21sea%21DE%212975965101%21X&curPageLogUid=zY6VKCu4rxaI&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
-  [Set mit männlicher runder Buchse und weiblichen Stecker: 4,89€](https://de.aliexpress.com/item/1005006774475512.html?spm=a2g0o.productlist.main.29.25e63291h0eGiG&algo_pvid=ac3d22fd-3740-44ff-9a8a-38c692df7b94&algo_exp_id=ac3d22fd-3740-44ff-9a8a-38c692df7b94-14&pdp_npi=4%40dis%21EUR%215.45%214.09%21%21%215.93%214.45%21%40211b6d3517277699040405588e3aa1%2112000038260060488%21sea%21DE%212975965101%21X&curPageLogUid=h7mr97sI2m7O&utparam-url=scene%3Asearch%7Cquery_from%3A)
+  [Set mit männlicher runder Buchse und weiblichen Stecker: 4,89€](https://de.aliexpress.com/item/1005006674703918.html?spm=a2g0o.order_list.order_list_main.12.17d95c5flbU96e&gatewayAdapt=glo2deu)
   
 Verschraubungen:
   Passende Verschraubungen für unseren Kabelausßendurchmesser sind:
