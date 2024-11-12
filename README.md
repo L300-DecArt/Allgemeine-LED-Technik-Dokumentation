@@ -113,11 +113,13 @@ Stecker:
 Die Pinbelegung sieht dabei wie folgt aus:
 
 ![alt_text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16_Pinbelegung.png)
+
 am H05rn-f 4Gx0,75mm^2 empfehlt sich folgende Belegung:
-Pin 1 - Backup - Braun
-Pin 2 - Data   - Gelbgrün
-Pin 3 - +12V   - Grau
-Pin 4 -  GND   - Schwarz
+
+Pin 1 - Backup - Braun<br>
+Pin 2 - Data   - Gelbgrün<br>
+Pin 3 - +12V   - Grau<br>
+Pin 4 -  GND   - Schwarz<br>
   
 Verschraubungen:
   Passende Verschraubungen für unseren Kabelausßendurchmesser sind:
