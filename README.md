@@ -4,9 +4,9 @@ Allgemeine LED-Technik Dokumentation
 Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik verwenden
 
 LEDs:
-  Protokoll: WS2815
-  Spannung: 12V
-  Max Stromstärke pro LED: 15mA
+  Protokoll: WS2815<br>
+  Spannung: 12V<br>
+  Max Stromstärke pro LED: 15mA<br>
 
   [WS-2815](https://de.aliexpress.com/item/1005004289391906.html?spm=a2g0o.productlist.main.1.440foJeeoJeevz&algo_pvid=3e679300-23e6-4f53-8256-4e59664eea96&algo_exp_id=3e679300-23e6-4f53-8256-4e59664eea96-0&pdp_npi=4%40dis%21EUR%2119.39%219.89%21%21%21147.90%2175.44%21%4021039cba17276415190216883e30a9%2112000038338767396%21sea%21DE%212975965101%21X&curPageLogUid=op9JRbgbQs11&utparam-url=scene%3Asearch%7Cquery_from%3A)
   
@@ -15,17 +15,17 @@ Controller:
   Unserer Standart soll es sein einen [ESP32 WT-32]( https://de.aliexpress.com/item/1005006485369425.html?spm=a2g0o.productlist.main.3.67681b00wzVink&algo_pvid=4857ddb3-a06e-4533-b9fd-954690b4cf02&algo_exp_id=4857ddb3-a06e-4533-b9fd-954690b4cf02-1&pdp_npi=4%40dis%21EUR%219.99%219.99%21%21%2176.20%2176.20%21%402103853f17276533435462307e9603%2112000037380725559%21sea%21DE%212975965101%21X&curPageLogUid=yGFK2UEkQkuR&utparam-url=scene%3Asearch%7Cquery_from%3A) zunutzen, dieser hat direkt einen Ethernet-Anschluss der direkt auf den Mikrocontroller gehen.
    
 
-  Angestrebt werden 60FPS, daher ergeben sich folgende Limitierungen:
-    Max Ausgänge: 4
-    Max Universen pro Ausgang: 2
-    Max LEDs pro Ausgang: 340
+  Angestrebt werden 60FPS, daher ergeben sich folgende Limitierungen:<br>
+    Max Ausgänge: 4<br>
+    Max Universen pro Ausgang: 2<br>
+    Max LEDs pro Ausgang: 340<br>
 
-  Wenn keine LEDs parallel geschalten wurden, ergeben sich dadurch folgende Stromstärken und Leistungen:
-    Max Stromstärke pro Ausgang: 4.08A
-    Max Stromstärke pro Controller: 16.32A
-    Max Watt pro Controller: 195.84W
+  Wenn keine LEDs parallel geschalten wurden, ergeben sich dadurch folgende Stromstärken und Leistungen:<br>
+    Max Stromstärke pro Ausgang: 4.08A<br>
+    Max Stromstärke pro Controller: 16.32A<br>
+    Max Watt pro Controller: 195.84W<br>
 
-  Daher macht es Sinn in eine Controllerbox ein 12V 200W Netzteil zu verbauen. (siehe Netzteil)
+  Daher macht es Sinn in eine Controllerbox ein 12V 200W Netzteil zu verbauen. (siehe Netzteil)<br>
   Für Installationen mit eigenem Controller können natürlich auch Netzteile mit angepasster niedrigerer Leistung verwendet werden.
 
 Netzteil:
@@ -41,12 +41,12 @@ Netzteil:
 Kabel:
   Das dünnste für unsere Stromstärken benötigte und gleichzeitig sehr hochwertige Kabel ist das:
   
-  H05rn-f 4Gx0,75mm^2:
-    Max Stromstärke: 10A
-    Kabelaußendurchmesser: 6.80-8.80mm
+  H05rn-f 4Gx0,75mm^2:<br>
+    Max Stromstärke: 10A<br>
+    Kabelaußendurchmesser: 6.80-8.80mm<br>
     
-Stecker:
-  !!!Ausgang ist immer weiblich und Eingang ist immer männlich!!!
+Stecker:<br>
+  !!!Ausgang ist immer weiblich und Eingang ist immer männlich!!!<br>
 
   Der passende Stecker zu unseren Anforderungen ist der:
 
