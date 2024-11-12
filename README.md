@@ -55,6 +55,7 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
   Kabelaußendurchmesser: 7 - 9mm
     
   Max Stromstärke: 10A
+  ### Clips müssen immer auf Kabelseite sein!
 
   ![alt text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16%20Specs.jpg)
 
@@ -96,7 +97,7 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
 
   
 
-
+### Clips müssen immer auf Kabelseite sein!
   Aliexpress Links:
   
   [männlicher Stecker](https://de.aliexpress.com/item/1005006403420945.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
