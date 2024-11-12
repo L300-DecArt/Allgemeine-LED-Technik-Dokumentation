@@ -111,6 +111,7 @@ Stecker:
   [Set mit männlicher runder Buchse und weiblichen Stecker: 4,89€](https://de.aliexpress.com/item/1005006674703918.html?spm=a2g0o.order_list.order_list_main.12.17d95c5flbU96e&gatewayAdapt=glo2deu)
 
 Die Pinbelegung sieht dabei wie folgt aus:
+
 ![alt_text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16_Pinbelegung.png)
   
 Verschraubungen:
