@@ -121,15 +121,15 @@ Pin 2 - Data   - Gelbgrün<br>
 Pin 3 - +12V   - Grau<br>
 Pin 4 -  GND   - Schwarz<br>
   
-Verschraubungen:
-  Passende Verschraubungen für unseren Kabelausßendurchmesser sind:
-    
-    PG11:
-      Kabelaußendurchmesser: 5-10mm
-      Gewinde: M18x1,5
-
-    PG13:
-      Kabelaußendruchmesser: 6-11mm
-      Gewinde: M20x1,5
+Verschraubungen:<br>
+  Passende Verschraubungen für unseren Kabelausßendurchmesser sind:<br>
+  <br>
+    PG11:<br>
+      Kabelaußendurchmesser: 5-10mm<br>
+      Gewinde: M18x1,5<br>
+<br>
+    PG13:<br>
+      Kabelaußendruchmesser: 6-11mm<br>
+      Gewinde: M20x1,5<br>
 
 
