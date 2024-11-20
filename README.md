@@ -32,10 +32,8 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
     200W Netzteil:
     https://a.aliexpress.com/_Ex9F1f7
 
-## Sicherung:
-    Jeder Ausgang sollte mit einem 2 Poligen DC Leitungsschutzschalter 6A ausgerüstet werden, um gegen Kurzschluss zu sichern.
-        
-    https://de.aliexpress.com/item/1005007096326577.html?spm=a2g0o.cart.0.0.7d7a4ae4YPx434&mp=1&gatewayAdapt=glo2deu
+## Sicherung:<br>
+   
     
 ## Kabel:<br>
   Das dünnste für unsere Stromstärken benötigte und gleichzeitig sehr hochwertige Kabel ist das:
@@ -50,7 +48,7 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
   Der passende Stecker zu unseren Anforderungen ist der:
 
 
-  ###EW-LP16 - 4 Polig:
+  ### EW-LP16 - 4 Polig:
   
   Kabelaußendurchmesser: 7 - 9mm
     
