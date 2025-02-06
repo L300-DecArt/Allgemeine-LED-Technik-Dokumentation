@@ -41,6 +41,8 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
   H05rn-f 4Gx0,75mm^2:<br>
     Max Stromstärke: 10A<br>
     Kabelaußendurchmesser: 6.80-8.80mm<br>
+
+https://www.etoh24.de/diverse-h05rn-f-4g0-75mm2-schwarz-schnittlaenge.html?from=g_merchant-kabel&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jYx7MpJ9fFhayBmVVZVrlFNip4jZDGn0BexgIYFV-p3qBQM5n5UEcxoCvqAQAvD_BwE
     
 ## Stecker:<br>
   !!!Ausgang ist immer weiblich und Eingang ist immer männlich!!!<br>
