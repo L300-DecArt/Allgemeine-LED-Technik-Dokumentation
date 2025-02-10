@@ -33,6 +33,12 @@ Hier wird der Standard beschrieben den wir für unsere 12V WS2815 LED Technik ve
     https://a.aliexpress.com/_Ex9F1f7
 
 ## Sicherung:<br>
+
+Für Controllerplatine V1:
+
+https://www.amazon.de/dp/B0CL9L8JQP?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+https://www.amazon.de/dp/B0CG8R1CNY?ref=ppx_yo2ov_dt_b_fed_asin_title
    
     
 ## Kabel:<br>
