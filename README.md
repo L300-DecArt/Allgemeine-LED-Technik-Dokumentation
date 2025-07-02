@@ -68,15 +68,15 @@ https://www.etoh24.de/diverse-h05rn-f-4g0-75mm2-schwarz-schnittlaenge.html?from=
   
   [männlicher Stecker](https://de.aliexpress.com/item/1005006403420945.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
 
-  [weiblicher Stecker](https://de.aliexpress.com/item/1005006674703918.html?spm=a2g0o.order_list.order_list_main.12.17d95c5flbU96e&gatewayAdapt=glo2deu)
+  [weiblicher Stecker](https://de.aliexpress.com/item/1005007946297249.html?pdp_npi=4%40dis%21EUR%21%E2%82%AC%201%2C72%21%E2%82%AC%201%2C29%21%21%211.98%211.48%21%40211b80e117514406703254875ed2db%2112000042969687459%21sh%21DE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603037704.1005007946297249&gatewayAdapt=glo2deu)
 
-  [männliche eckige Buchse](https://de.aliexpress.com/item/1005007399437780.html?spm=a2g0o.productlist.main.49.25e63291h0eGiG&algo_pvid=ac3d22fd-3740-44ff-9a8a-38c692df7b94&algo_exp_id=ac3d22fd-3740-44ff-9a8a-38c692df7b94-24&pdp_npi=4%40dis%21EUR%215.85%214.39%21%21%216.37%214.78%21%40211b6d3517277699040405588e3aa1%2112000040585661988%21sea%21DE%212975965101%21X&curPageLogUid=zY6VKCu4rxaI&utparam-url=scene%3Asearch%7Cquery_from%3A)
+  [männliche eckige Buchse](https://de.aliexpress.com/item/1005007946297249.html?pdp_npi=4%40dis%21EUR%21%E2%82%AC%201%2C72%21%E2%82%AC%201%2C29%21%21%211.98%211.48%21%40211b80e117514406703254875ed2db%2112000042969687459%21sh%21DE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603037704.1005007946297249&gatewayAdapt=glo2deu)
   
   [weibliche eckige Buchse:](https://de.aliexpress.com/item/1005006403420945.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
 
-  [weibliche runde Buchse:](https://de.aliexpress.com/item/1005006403606099.html?spm=a2g0o.cart.0.0.3ce54ae4bq4xFz&mp=1&gatewayAdapt=glo2deu)
+  [weibliche runde Buchse:](https://de.aliexpress.com/item/1005008326481915.html?pdp_npi=4%40dis%21EUR%21%E2%82%AC%202%2C79%21%E2%82%AC%202%2C09%21%21%213.21%212.40%21%40211b80e117514408456598660ed2db%2112000044613732494%21sh%21DE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603037704.1005008326481915&gatewayAdapt=glo2deu)
 
-  [männlicher runde Buchse](https://de.aliexpress.com/item/1005006674703918.html?spm=a2g0o.order_list.order_list_main.12.17d95c5flbU96e&gatewayAdapt=glo2deu)
+  [männlicher runde Buchse](https://de.aliexpress.com/item/1005007641514787.html?pdp_npi=4%40dis%21EUR%21%E2%82%AC%202%2C66%21%E2%82%AC%201%2C99%21%21%213.06%212.29%21%40211b80e117514408723671144ed2db%2112000041615752515%21sh%21DE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603037704.1005007641514787&gatewayAdapt=glo2deu)
 
 Die Pinbelegung sieht dabei wie folgt aus:
 
