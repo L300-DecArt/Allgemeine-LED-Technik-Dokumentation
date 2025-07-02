@@ -78,6 +78,9 @@ https://www.etoh24.de/diverse-h05rn-f-4g0-75mm2-schwarz-schnittlaenge.html?from=
 
   [männlicher runde Buchse](https://de.aliexpress.com/item/1005007641514787.html?pdp_npi=4%40dis%21EUR%21%E2%82%AC%202%2C66%21%E2%82%AC%201%2C99%21%21%213.06%212.29%21%40211b80e117514408723671144ed2db%2112000041615752515%21sh%21DE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603037704.1005007641514787&gatewayAdapt=glo2deu)
 
+
+  [LINK ZUM HERSTELLER: POWER SIGNAL DATE CONNECTOR STORE](https://de.aliexpress.com/store/1102181980?spm=a2g0o.store_pc_allItems_or_groupList.pcShopHead_2003108905688.0)
+
 Die Pinbelegung sieht dabei wie folgt aus:
 
 ![alt_text](https://github.com/L300-DecArt/Allgemeine-LED-Technik-Dokumentation/blob/main/Bilder/LP-16_Pinbelegung.png)
