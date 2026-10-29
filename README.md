@@ -25,12 +25,29 @@ Zwei Dinge stecken in diesem Repo:
 
 ## Dokumentation
 
+**Standard & Material**
+
 | Thema | Was steht drin |
 |---|---|
 | 🔌 [**Stecker (LP16)**](docs/stecker-lp16.md) | Welcher Stecker wohin, mit oder ohne Clip, Bestell-Links, Pinbelegung |
 | 🧵 [**Kabel & Verschraubungen**](docs/kabel.md) | Kabeltyp, Aderfarben, passende PG-Verschraubungen |
 | 💡 [**LEDs**](docs/leds.md) | Welche LED-Typen gehen, wann welche sinnvoll ist, unser Standard WS2815 |
-| ⚡ [**Stromversorgung & Absicherung**](docs/stromversorgung.md) | Leistung berechnen, Netzteil, Sicherungen |
+| ⚡ [**Stromversorgung & Absicherung**](docs/stromversorgung.md) | Leistung berechnen, Spannungsabfall & Kabellängen, Netzteile, Sicherungen |
+
+**Bauen & Betreiben**
+
+| Thema | Was steht drin |
+|---|---|
+| 🛠️ [**Kabel konfektionieren & prüfen**](docs/kabel-konfektionieren.md) | LP16-Kabel Schritt für Schritt löten und durchmessen |
+| 📦 [**Stückliste Controllerbox V1**](docs/stueckliste-controllerbox-v1.md) | Alle Teile mit Links und Preisen |
+| 🌐 [**Art-Net einrichten**](docs/art-net.md) | IP-Adressen, Universen, Software-Einrichtung |
+| 🌧️ [**Draußen & Nässe**](docs/draussen.md) | Schutzarten, wasserdichte Netzteile, Checkliste vor dem Aufbau |
+| 🩺 [**Fehlersuche**](docs/fehlersuche.md) | Dunkel, flackert, falsche Farben, Sicherung fliegt – was tun? |
+
+**Controller**
+
+| Thema | Was steht drin |
+|---|---|
 | 🎛️ [**Controller V4 – ESP32-P4-NANO**](docs/controller-v4-p4-nano.md) | Der neue Controller (in Entwicklung): bis 16 Ausgänge, 5/12/24 V, WLED-Option |
 | 🎛️ [**Controller V1 – WT32-ETH01**](docs/controller-v1-wt32.md) | Der Controller in unseren aktuellen Boxen: 4 Ausgänge, Art-Net |
 
