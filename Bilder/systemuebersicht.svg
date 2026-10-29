@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 330" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff4d6d"/><stop offset=".33" stop-color="#ffd166"/>
+      <stop offset=".66" stop-color="#06d6a0"/><stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1060" height="330" fill="#ffffff"/>
+
+  <!-- Quelle -->
+  <rect x="20" y="70" width="170" height="120" rx="10" fill="#eef2ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="105" y="102" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">Lichtsteuerung</text>
+  <text x="105" y="128" font-size="13" text-anchor="middle" fill="#333">Resolume,</text>
+  <text x="105" y="146" font-size="13" text-anchor="middle" fill="#333">ShizoEngine,</text>
+  <text x="105" y="164" font-size="13" text-anchor="middle" fill="#333">Lichtpult …</text>
+
+  <!-- Ethernet -->
+  <line x1="190" y1="130" x2="262" y2="130" stroke="#2563eb" stroke-width="4" marker-end="url(#a)"/>
+  <text x="226" y="118" font-size="12" text-anchor="middle" fill="#2563eb">Art-Net</text>
+  <text x="226" y="150" font-size="12" text-anchor="middle" fill="#2563eb">Ethernet</text>
+
+  <!-- Controllerbox -->
+  <rect x="270" y="40" width="250" height="180" rx="10" fill="#f3f4f6" stroke="#333" stroke-width="2"/>
+  <text x="395" y="68" font-size="16" font-weight="bold" text-anchor="middle" fill="#111">Controllerbox</text>
+  <rect x="290" y="84" width="210" height="34" rx="6" fill="#fff" stroke="#888"/>
+  <text x="395" y="106" font-size="13" text-anchor="middle" fill="#222">LED-Controller (V1 / V4)</text>
+  <rect x="290" y="126" width="100" height="34" rx="6" fill="#fff" stroke="#888"/>
+  <text x="340" y="148" font-size="13" text-anchor="middle" fill="#222">Netzteil</text>
+  <rect x="400" y="126" width="100" height="34" rx="6" fill="#fff" stroke="#888"/>
+  <text x="450" y="148" font-size="13" text-anchor="middle" fill="#222">Sicherungen</text>
+  <text x="395" y="190" font-size="12" text-anchor="middle" fill="#555">Ausgänge: LP16-Buchsen (weiblich)</text>
+  <rect x="514" y="92" width="16" height="24" rx="2" fill="#2b2b2b"/>
+  <rect x="514" y="170" width="16" height="24" rx="2" fill="#2b2b2b"/>
+
+  <!-- Kabel 1 -->
+  <line x1="530" y1="104" x2="660" y2="104" stroke="#111" stroke-width="7"/>
+  <rect x="540" y="93" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="546" y="86" width="18" height="6" rx="1" fill="#f28c28"/>
+  <rect x="630" y="93" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="636" y="86" width="18" height="6" rx="1" fill="#f28c28"/>
+  <text x="600" y="84" font-size="12" text-anchor="middle" fill="#333">LP16-Kabel</text>
+
+  <!-- LED-Element 1 -->
+  <rect x="660" y="80" width="170" height="48" rx="8" fill="#fafafa" stroke="#333" stroke-width="2"/>
+  <rect x="676" y="98" width="138" height="12" rx="6" fill="url(#g)"/>
+  <text x="745" y="146" font-size="13" text-anchor="middle" fill="#333">LED-Element</text>
+
+  <!-- Kabel 2 -->
+  <line x1="830" y1="104" x2="930" y2="104" stroke="#111" stroke-width="7"/>
+  <rect x="836" y="93" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="842" y="86" width="18" height="6" rx="1" fill="#f28c28"/>
+  <rect x="900" y="93" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="906" y="86" width="18" height="6" rx="1" fill="#f28c28"/>
+  <rect x="930" y="80" width="110" height="48" rx="8" fill="#fafafa" stroke="#333" stroke-width="2"/>
+  <rect x="944" y="98" width="82" height="12" rx="6" fill="url(#g)"/>
+  <text x="985" y="146" font-size="13" text-anchor="middle" fill="#333">… weitere</text>
+
+  <!-- Ausgang 2 -->
+  <line x1="530" y1="182" x2="660" y2="182" stroke="#111" stroke-width="7"/>
+  <rect x="540" y="171" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="546" y="164" width="18" height="6" rx="1" fill="#f28c28"/>
+  <rect x="630" y="171" width="30" height="22" rx="5" fill="#2b2b2b"/>
+  <rect x="636" y="164" width="18" height="6" rx="1" fill="#f28c28"/>
+  <rect x="660" y="160" width="170" height="44" rx="8" fill="#fafafa" stroke="#333" stroke-width="2"/>
+  <rect x="676" y="176" width="138" height="12" rx="6" fill="url(#g)"/>
+  <text x="745" y="222" font-size="13" text-anchor="middle" fill="#333">LED-Element</text>
+
+  <!-- Kabelquerschnitt / Legende -->
+  <line x1="20" y1="250" x2="1040" y2="250" stroke="#e5e7eb"/>
+  <text x="20" y="280" font-size="14" font-weight="bold" fill="#111">Ein Kabel, alles drin:</text>
+  <circle cx="200" cy="275" r="7" fill="#8b5a2b"/><text x="212" y="280" font-size="13" fill="#333">Backup-Daten</text>
+  <circle cx="330" cy="275" r="7" fill="#9acd32" stroke="#e1c400" stroke-width="3"/><text x="342" y="280" font-size="13" fill="#333">Daten</text>
+  <circle cx="420" cy="275" r="7" fill="#9ca3af"/><text x="432" y="280" font-size="13" fill="#333">+12 V</text>
+  <circle cx="510" cy="275" r="7" fill="#111"/><text x="522" y="280" font-size="13" fill="#333">GND</text>
+  <rect x="600" y="270" width="22" height="7" rx="1" fill="#f28c28"/><text x="630" y="280" font-size="13" fill="#333">= Clip – sitzt immer am Kabel</text>
+  <text x="20" y="310" font-size="13" fill="#555">H05RN-F 4G0,75 mm² · EW-LP16 4-polig · 12 V · max. 10 A pro Leitung</text>
+</svg>
