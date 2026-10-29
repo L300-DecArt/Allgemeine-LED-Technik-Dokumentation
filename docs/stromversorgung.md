@@ -21,41 +21,6 @@ Beispiel mit unserem Standard (WS2815, 12 V, max. 15 mA pro LED, 340 LEDs pro Au
 
 Für Installationen mit eigenem Controller und weniger LEDs reichen natürlich kleinere Netzteile.
 
-## Spannungsabfall & Kabellängen
-
-Jedes Kabel „verbraucht“ Spannung – je länger und je mehr Strom, desto weniger kommt am LED-Element an. Bei zu wenig Spannung werden die LEDs am Ende **dunkler und rötlich**, Weiß sieht gelblich aus.
-
-Spannungsabfall an unserem **H05RN-F 4G0,75** (Hin- und Rückleiter zusammen, ca. 0,047 Ω pro Meter Kabel):
-
-| Strom ↓ / Kabellänge → | 5 m | 10 m | 15 m | 20 m | 30 m |
-|---|---:|---:|---:|---:|---:|
-| **1 A** | 0,2 V | 0,5 V | 0,7 V | 0,9 V | 1,4 V |
-| **2 A** | 0,5 V | 0,9 V | 1,4 V | 1,9 V | 2,8 V |
-| **3 A** | 0,7 V | 1,4 V | 2,1 V | 2,8 V | 4,2 V |
-| **4 A** | 0,9 V | 1,9 V | 2,8 V | 3,7 V | 5,6 V |
-| **5 A** | 1,2 V | 2,3 V | 3,5 V | 4,7 V | 7,0 V |
-
-<sub>Dazu kommt noch der Spannungsabfall im LED-Streifen selbst. Werte bei 20 °C – warme Kabel haben etwas mehr Widerstand.</sub>
-
-**Faustregel:** Bis etwa **1,2 V Verlust (10 %)** sieht man nichts. Daraus ergeben sich diese maximalen Kabellängen vom Controller bis zum ersten LED-Element:
-
-| Strom am Ausgang | max. Kabellänge |
-|---:|---:|
-| 1 A | ≈ 25 m |
-| 2 A | ≈ 13 m |
-| 3 A | ≈ 8 m |
-| 4 A | ≈ 6 m |
-| 5 A | ≈ 5 m |
-
-> ℹ️ Die Tabelle gilt für **Vollweiß bei voller Helligkeit**. Bei normalen Shows mit bunten, bewegten Inhalten fließt im Schnitt deutlich weniger Strom – längere Kabel gehen dann oft trotzdem. Wer sicher gehen will, plant nach der Tabelle.
-
-### Was tun bei langen Strecken?
-
-- **Nachspeisen:** Am weit entfernten Element ein eigenes Netzteil anschließen, das +12 V und GND dort einspeist. **GND bleibt verbunden** (sonst stimmt das Datensignal nicht mehr), **+12 V vom Controller dort trennen** – zwei Netzteile nie direkt parallel auf dieselbe Leitung.
-- **Controller näher ran:** Lieber die Controllerbox in die Nähe der Elemente stellen und nur das Netzwerkkabel lang ziehen – Ethernet geht bis 100 m ohne Verluste.
-- **Weniger LEDs pro Ausgang** oder die Helligkeit in der Software begrenzen.
-- **24 V** statt 12 V (mit dem [Controller V4](controller-v4-p4-nano.md)): halber Strom bei gleicher Leistung → halber Spannungsabfall, im Verhältnis zur doppelten Spannung also nur ein Viertel. Braucht aber 24-V-LEDs.
-
 ## Netzteil
 
 ### Empfehlung: Mean Well LRS-Serie (12 V)

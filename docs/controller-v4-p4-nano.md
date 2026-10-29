@@ -30,8 +30,6 @@ Die Firmware stammt von [shizotech](https://github.com/shizotech/esp32_p4_nano_l
 - Audioreaktiv
 - Frei programmierbar und erweiterbar mit **Shizoscript**
 
-**Einrichtung:** siehe [Art-Net einrichten](art-net.md).
-
 **Installation:** über den Online-Flasher, verlinkt im [Firmware-Repo](https://github.com/shizotech/esp32_p4_nano_led#how-to-install).
 
 ## Ohne unseren Standard nutzen

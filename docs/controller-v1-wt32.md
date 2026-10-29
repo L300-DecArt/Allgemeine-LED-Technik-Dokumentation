@@ -31,9 +31,3 @@ Die Grenzen bei Ausgängen, Universen und LEDs ergeben sich aus den 60 FPS: Mehr
 ## Leistung
 
 Wie viel Strom die Ausgänge ziehen und warum ein 200-W-Netzteil reicht, steht unter [Stromversorgung](stromversorgung.md#so-rechnest-du).
-
-## Weiter
-
-- [Stückliste Controllerbox V1](stueckliste-controllerbox-v1.md)
-- [Art-Net einrichten](art-net.md)
-- [Fehlersuche](fehlersuche.md)

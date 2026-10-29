@@ -15,9 +15,6 @@ Das dünnste Kabel, das für unsere Ströme reicht – und gleichzeitig robust g
 
 > ⚠️ **Nicht verwechseln mit H05RR-F oder H03VV-F:** gleiche Querschnitte, aber deutlich empfindlicher. Auf **H05RN-F** achten.
 
-Wie man ein Kabel lötet und prüft: [Kabel konfektionieren & prüfen](kabel-konfektionieren.md).
-Wie lang ein Kabel sein darf: [Spannungsabfall & Kabellängen](stromversorgung.md#spannungsabfall--kabellängen).
-
 ## Aderbelegung
 
 | LP16-Pin | Funktion | Ader |
